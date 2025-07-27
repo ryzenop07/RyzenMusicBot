@@ -14,7 +14,7 @@ API_HASH = "0aa759ca1e37cf5efd89348df8b01ff3"
 BOT_TOKEN = "7693545148:AAEYuqqgLxLQpT-nHgnG91VgrflqYYiNpac"
 
 # Get your mongo url from cloud.mongodb.com
-MONGO_DB_URI = "mongodb+srv://ajay211st:MyPass40123@musicbot.e8zz328.mongodb.net/?retryWrites=true&w=majority&appName=musicbot"
+MONGO_DB_URI = "mongodb+srv://ajay211st:MyPass40123@musicbot.e8zz328.mongodb.net/musicbot?retryWrites=true&w=majority&appName=musicbot"
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
 
