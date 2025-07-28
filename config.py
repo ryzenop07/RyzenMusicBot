@@ -20,7 +20,7 @@ MONGO_DB_URI = "mongodb+srv://ajay211st:vish123@musicbot.e8zz328.mongodb.net/?re
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
 
 # Chat id of a group for logging bot's activities
-LOG_GROUP_ID =-1002731378392
+LOG_GROUP_ID = -1002731378392
 
 # Get this value from @ultron2_robot on Telegram by /id
 OWNER_ID = 7850496630
@@ -33,7 +33,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/rishabhops/alice",
+    "https://github.com/ryzenop07/RyzenMusicBot",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
