@@ -20,7 +20,7 @@ MONGO_DB_URI = "mongodb+srv://ajay211st:vish123@musicbot.e8zz328.mongodb.net/?re
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
 
 # Chat id of a group for logging bot's activities
-LOG_GROUP_ID = -1002593671416
+LOG_GROUP_ID = -1002731378392
 
 # Get this value from @ultron2_robot on Telegram by /id
 OWNER_ID = 7850496630
@@ -40,8 +40,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = "https://t.me/ryzenmusicsupport"
-SUPPORT_GROUP = "https://t.me/ryzenmusicsupport"
+SUPPORT_CHANNEL = "https://t.me/Ryzen_supportxc"
+SUPPORT_GROUP = "https://t.me/Ryzen_supportxc"
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
